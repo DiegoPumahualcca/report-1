@@ -369,8 +369,137 @@ Creemos que si incorporamos funciones de apoyo interactivo como un chatbot y rec
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
+
+Se ha reconocido a TerapyGo, PsiConecta y TuPsicólogoEnLima como los principales competidores de nuestro proyecto. Este análisis nos permitirá adquirir un conocimiento más profundo sobre el funcionamiento del mercado, así como las ventajas y desventajas que poseemos en comparación con ellos. Esta información será fundamental para desarrollar estrategias y tácticas efectivas dentro del sector seleccionado.
+
 ### 2.1.1. Análisis competitivo
+
+<table>
+  <tr>
+    <th colspan="7" valign="top"><b>Competitive Analysis Landscape</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">Objetivo del análisis</td>
+    <td colspan="5">¿Cómo analiza, produce y enfrenta el mercado mi competencia?</td>
+  </tr>
+  <tr>
+    <td colspan="5">Este análisis se realizó con la finalidad de poder identificar a nuestros potenciales competidores e idear estrategias y tácticas para diferenciarnos de estos.</td>
+  </tr>
+  <tr>
+    <td colspan="3">Nombre y logo</td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+        OpenMind
+        <br>
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="assets/.png" alt="" width="60px">
+        </div>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+      TerapyGo
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="assets/.png" alt="" width="60px">
+        </div>
+    </td>
+    <td colspan="1" valign="top" style="font-weight: bold;">
+      psiConecta
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="assets/.png" alt="" width="60px">
+            </div>
+        </td>
+    <td colspan="1" valign="top" style="font-weight: bold;" >
+      TuPsicólogoEnLima
+        <div style="text-align: center; margin-top: 10px;">
+                <img src="assets/.png" alt="" width="60px">
+        </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil</p></td>
+    <td colspan="2">Overview</td>
+    <td colspan="1" valign="top">opendMind es una startup tecnológica peruana enfocada en la digitalización de la salud mental. Su propuesta consiste en conectar a pacientes con psicólogos de manera rápida, confiable y accesible, buscando reducir las barreras de tiempo, distancia y costo que dificultan la atención psicológica en la región.</td>
+    <td colspan="1" valign="top">TerapyGo es una plataforma internacional de teleterapia que conecta a usuarios con psicólogos y terapeutas certificados. Opera bajo un modelo de suscripción mensual que asegura acceso continuo a servicios de salud mental.</td>
+    <td colspan="1" valign="top">psiConecta es una plataforma peruana que ofrece conexión entre pacientes y psicólogos tanto para sesiones virtuales como presenciales. Su enfoque está en la cercanía y personalización, con psicólogos colegiados en Perú.</td>
+    <td colspan="1" valign="top">TuPsicólogoEnLima es una plataforma local enfocada en la ciudad de Lima, que ofrece sesiones virtuales y presenciales a precios competitivos. Se caracteriza por la cercanía con la comunidad limeña.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Ventaja competitiva</td>
+    <td colspan="1" valign="top">Su principal diferenciador es que no solo funciona como un directorio, sino como un ecosistema completo. Integra reservas en tiempo real, pagos digitales, recordatorios, chatbot de apoyo inicial y dashboards para profesionales, lo que le da un mayor valor frente a competidores que solo ofrecen sesiones virtuales.</td>
+    <td colspan="1" valign="top">Su fortaleza principal es la escalabilidad y el modelo de ingresos recurrentes que asegura sostenibilidad financiera. Además, su experiencia internacional le permite tener una red más amplia de profesionales y mayor disponibilidad horaria.</td>
+    <td colspan="1" valign="top">Conocimiento del mercado local, confianza por trabajar con profesionales acreditados y la posibilidad de atención presencial.</td>
+    <td colspan="1" valign="top">Su propuesta de valor está en la accesibilidad de precios y en la flexibilidad de modalidad de atención.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="2"><p>Perfil de Marketing</p></td>
+    <td colspan="2">Mercado objetivo</td>
+    <td colspan="1" valign="top">Pacientes jóvenes y adultos en Perú y Latinoamérica que necesitan atención psicológica accesible, así como psicólogos independientes que buscan visibilidad y herramientas digitales para profesionalizar su servicio.</td>
+    <td colspan="1" valign="top">Personas con alta necesidad de acompañamiento psicológico continuo, especialmente en contextos urbanos y con acceso a tarjetas internacionales; además, empresas que buscan programas de salud mental corporativos.</td>
+    <td colspan="1" valign="top">Pacientes peruanos que valoran la atención psicológica de profesionales certificados y cercanos, con precios ajustados a la realidad local.</td>
+    <td colspan="1" valign="top">Familias y adultos de ingresos medios en Lima que buscan servicios psicológicos confiables y económicos.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Estrategias de marketing</td>
+    <td colspan="1" valign="top">Campañas de marketing digital con foco en redes sociales (Instagram, TikTok y LinkedIn), alianzas con universidades y empresas para programas corporativos de bienestar, estrategias de marketing de contenidos (blogs, charlas online), y programas de referidos que incentiven el crecimiento orgánico de la comunidad.</td>
+    <td colspan="1" valign="top">Campañas globales en redes sociales, inversión fuerte en publicidad digital (Google Ads, Meta Ads), colaboraciones con influencers especializados en bienestar, planes B2B para empresas y pruebas gratuitas para atraer nuevos usuarios.</td>
+    <td colspan="1" valign="top">Testimonios de pacientes, marketing de contenidos a través de blogs, campañas en redes dirigidas a jóvenes universitarios y adultos que buscan servicios accesibles.</td>
+    <td colspan="1" valign="top">Promociones por precio, campañas en buscadores con SEO/SEM, presencia en redes sociales locales y respaldo de psicólogos colegiados.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="3"><p>Perfil de Producto</p></td>
+    <td colspan="2">Productos & Servicios</td>
+    <td colspan="1" valign="top">Buscador de psicólogos filtrados por especialidad, agenda en tiempo real, sistema de notificaciones, pagos integrados, chatbot de orientación inicial y dashboards con métricas de ingresos y progreso.</td>
+    <td colspan="1" valign="top">Sesiones de psicoterapia por videollamada, chat ilimitado con psicólogos, programas estructurados para ansiedad, depresión y manejo del estrés.</td>
+    <td colspan="1" valign="top">Psicoterapia en modalidad online y presencial, evaluaciones psicológicas, acompañamiento emocional en distintos procesos.</td>
+    <td colspan="1" valign="top">Psicoterapia en línea y presencial en diversas especialidades (ansiedad, estrés, terapia familiar). Posibilidad de cambiar de psicólogo en caso de incompatibilidad.</td>
+  </tr>
+  <tr>
+      <td colspan="2">Precios & Costos</td>
+      <td colspan="1" valign="top">Modelo mixto con comisión por sesión (15–20%), planes de suscripción premium para psicólogos (mayor visibilidad y herramientas adicionales) y tarifas promocionales para atraer a nuevos pacientes.</td>
+      <td colspan="1" valign="top">Planes de suscripción de USD 50–80 mensuales, que incluyen distintos niveles de acceso.</td>
+      <td colspan="1" valign="top">S/80 – S/120 por sesión, con variación según experiencia del psicólogo.</td>
+      <td colspan="1" valign="top">Sesiones desde S/80, ajustadas a la experiencia del psicólogo.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Canales de distribución (Web y/o Móvil)</td>
+    <td colspan="1" valign="top">Web app responsive, redes sociales como canal de captación, WhatsApp para atención al cliente y alianzas institucionales para expandir la base de usuarios.</td>
+    <td colspan="1" valign="top">Web app, aplicación móvil y un fuerte posicionamiento en buscadores mediante SEM/SEO.</td>
+    <td colspan="1" valign="top">Página web, reservas por WhatsApp, videollamadas mediante Zoom o Google Meet y recomendaciones por referidos.</td>
+    <td colspan="1" valign="top">Página web, reservas vía WhatsApp y campañas digitales.</td>
+  </tr>
+  <tr>
+    <td colspan="1" rowspan="4"><p>Análisis SWOT</p></td>
+    <td colspan="2">Fortalezas</td>
+    <td colspan="1" valign="top">Plataforma integral, enfoque en accesibilidad, propuesta tecnológica escalable, visión regional.</td>
+    <td colspan="1" valign="top">Escala internacional, ingresos recurrentes, variedad de profesionales y disponibilidad flexible.</td>
+    <td colspan="1" valign="top">Conexión con profesionales locales, mezcla de modalidades (presencial y online), precios adaptados al mercado peruano.</td>
+    <td colspan="1" valign="top">Cercanía al público limeño, precios accesibles, confianza por colegiatura de psicólogos.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Debilidades</td>
+    <td colspan="1" valign="top">Startup emergente con poca trayectoria, necesidad de generar confianza en un sector sensible.</td>
+    <td colspan="1" valign="top">Tarifas elevadas para LATAM, menor conocimiento del contexto local, barreras de acceso para personas sin tarjeta internacional.</td>
+    <td colspan="1" valign="top">Baja digitalización de procesos (no cuenta con pasarelas de pago ni dashboards).</td>
+    <td colspan="1" valign="top">Baja escalabilidad fuera de Lima, poca diferenciación en lo digital.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Oportunidades</td>
+    <td colspan="1" valign="top">Demanda creciente de salud mental post-pandemia, digitalización acelerada en LATAM, posibilidad de alianzas con seguros y empresas.</td>
+    <td colspan="1" valign="top">Creciente interés empresarial en la salud mental y posibilidad de expansión hacia mercados emergentes.</td>
+    <td colspan="1" valign="top">Digitalizar funciones adicionales (pagos online, recordatorios, seguimiento).</td>
+    <td colspan="1" valign="top">Expansión hacia otras ciudades del Perú, implementación de mayor tecnología en la plataforma.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Amenazas</td>
+    <td colspan="1" valign="top">Competidores internacionales con más capital, cambios regulatorios en salud, barreras de adopción tecnológica en ciertos segmentos.</td>
+    <td colspan="1" valign="top">Competencia local más económica, problemas regulatorios en telemedicina y saturación de plataformas similares.</td>
+    <td colspan="1" valign="top">Ingreso de startups más tecnológicas, desconfianza inicial de usuarios hacia lo digital.</td>
+    <td colspan="1" valign="top">Competencia de startups con soluciones tecnológicas más robustas y con capital extranjero.</td>
+  </tr>
+</table>
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+La estrategia de OpenMind frente a sus competidores se centra en la accesibilidad, la innovación y la confianza. En comparación con TerapyGo, que usa un modelo de suscripción poco adaptable al mercado latino, OpenMind apuesta por precios flexibles por sesión o en paquetes accesibles, resaltando además su enfoque local y cultural. Con respecto a psiConecta, que combina atención presencial y virtual pero con baja digitalización, la ventaja está en ofrecer una experiencia totalmente digital: agenda en tiempo real, pagos en línea, recordatorios y un chatbot de orientación. Esto no solo atrae pacientes, sino también psicólogos que valoran contar con herramientas de gestión y métricas que mejoren su práctica profesional.
+
+Frente a TuPsicólogoEnLima, que compite con precios bajos y alcance limitado a Lima, OpenMind se diferencia ofreciendo valor agregado, como historial clínico, seguimiento digital y convenios con empresas y universidades, además de la expansión geográfica hacia provincias y otros países. En un sentido más amplio, para posicionarse frente a todos los competidores, OpenMind debe enfocarse en construir confianza y comunidad mediante la verificación de psicólogos, campañas en redes sociales dirigidas a jóvenes y programas de referidos con beneficios. A esto se suman alianzas estratégicas con aseguradoras y universidades, que permitirán asegurar un flujo constante de usuarios y consolidar a OpenMind como la opción digital más confiable en salud mental.
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
